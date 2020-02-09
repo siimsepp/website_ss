@@ -1,0 +1,21 @@
+{
+  "name": "form_validator",
+  "version": "1.0.0",
+  "description": "simple form validator with js",
+  "main": "valuuta/valuuta.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Siim Sepp",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "prettier": "1.19.1"
+  }
+}
